@@ -1,2 +1,17 @@
-# BeneficiosCuentaEstudiantil
-Repositorio que enumera y detalla los beneficios disponibles para los estudiantes de nuestra escuela, incluyendo descuentos, servicios gratuitos y recursos adicionales.
+# Beneficios de la Cuenta Estudiantil
+
+## Gratiutos - [Usables]
+
+- Office Online
+- OneDrive 100GB
+- Microsoft Azure for Students
+- AWS Educate
+- JetBrains
+- Autodesk
+- Figma
+
+## Gratiutos - [Falta completar por parte de la Institución]
+
+- IBM Academic Initiative
+- GitHub For Students
+- Canva Pro
